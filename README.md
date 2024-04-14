@@ -1,3 +1,3 @@
 # GHW-X/API
 
-Name will be changed based on the API idea later..
+Name will be changed later based on the API idea..
