@@ -39,6 +39,24 @@ def create_user(user: User):
     users.append(new_user)
     return new_user
 
+@app.put("/users/{user_id}")
+def update_user(user_id: str, user: User):
+   for u in users:
+    if u["id"] == user_id:
+        u["username"] = user.username
+        u["email"] = user.email
+        return u
+    return {"message": "Current user cannot be updated because user is not found!"}
+
+@app.delete("/users/{user_id}")
+def delete_user(user_id: str):
+    for i, user in enumerate(users):
+        if user["id"] == user_id:
+            users.pop(i)
+            return{"message": "User deleted successfully!"}
+    return {"mesage": "User is not found!"}
+
+
 if __name__ == "__main__":
     import uvicorn 
     uvicorn.run(app, host="localhost", port=8001)
