@@ -1,0 +1,47 @@
+Understanding API notes from MLH by @Neufal
+
+- Consistency:
+    GET https://api.example.com/v1/users
+    POST https://api.example.com/v1/users
+    PUT https://api.example.com/v1/users
+    DELETE https://api.example.com/v1/users
+
+    GET /GetUsersInfo
+    POST /UpdateUsersInfo
+    PUT /DeleteUsersInfo
+    DELETE /CreateUsersInfo
+
+- Error handling:
+    {"user not found"}
+    {"user already exists"}
+    {"endpoint not found"}
+    {"method not allowed"}
+    /users/{id} -> {"user not found"} is not good prompt -> {"not allowed to access the information}
+    /users/8439892783 -> {"user exists"}
+
+- Security:
+    API KEY
+    JWT
+    OAuth2
+    Basic Auth
+    token
+
+- Input Validation:
+    - Validate the input data
+    "joh@example.com" -> "Select * from users where email = ?"
+
+- Response formatting:
+    - JSON  
+    UPDATE /users/{id}
+    '{"status: "Added correctly"}'
+
+- Pagination and filtering:
+    GET /users/{city}?limit=10 
+    
+- Documentation:
+    - testing and monitoring
+    - version control
+
+- Use singular nouns for resource names
+    - Good: /user/{ID}, /product/{ID}, /users/{ID}/orders, /users/{ID}/orders/{order_id}/title
+    - Bad: /users/{ID}, /products/{ID}, /getOrderByUserID/{ID}, /getOrderByUserTitle/{TITLE}
