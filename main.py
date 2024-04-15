@@ -34,9 +34,7 @@ def authenticate(credentials: HTTPBasicCredentials = Security(security)):
         if u["username"] == credentials.username and u["password"] == credentials.password:
             user = u
             return user
-        if user is None:
-            raise HTTPException(status_code=401, detail="invalid credentials!")
-    return None
+    raise HTTPException(status_code=401, detail="invalid credentials!")
 
 # authorize user
 def authorize(user: dict = Depends(authenticate)):
