@@ -1,0 +1,882 @@
+[
+  [
+    {
+      "content": " <a title=\"Gödel, Escher, Bach: An Eternal Golden Braid",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 82559,
+      "endPos": 82614
+    },
+    {
+      "content": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 82570,
+      "endPos": 82614
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Fermat&#39;s Enigma",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 93788,
+      "endPos": 93818
+    },
+    {
+      "content": "Fermat&#39;s Enigma",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 93799,
+      "endPos": 93818
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Flatland: A Romance of Many Dimensions",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 103107,
+      "endPos": 103156
+    },
+    {
+      "content": "Flatland: A Romance of Many Dimensions",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 103118,
+      "endPos": 103156
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Zero: The Biography of a Dangerous Idea",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 122034,
+      "endPos": 122084
+    },
+    {
+      "content": "Zero: The Biography of a Dangerous Idea",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 122045,
+      "endPos": 122084
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"A Beautiful Mind",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 140912,
+      "endPos": 140939
+    },
+    {
+      "content": "A Beautiful Mind",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 140923,
+      "endPos": 140939
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Euclid&#39;s Elements",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 159804,
+      "endPos": 159836
+    },
+    {
+      "content": "Euclid&#39;s Elements",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 159815,
+      "endPos": 159836
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"How to Lie with Statistics",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 197724,
+      "endPos": 197761
+    },
+    {
+      "content": "How to Lie with Statistics",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 197735,
+      "endPos": 197761
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"A Brief History of Time",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 226253,
+      "endPos": 226287
+    },
+    {
+      "content": "A Brief History of Time",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 226264,
+      "endPos": 226287
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Uncle Petros and Goldbach&#39;s Conjecture",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 235605,
+      "endPos": 235658
+    },
+    {
+      "content": "Uncle Petros and Goldbach&#39;s Conjecture",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 235616,
+      "endPos": 235658
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"A Mathematician&#39;s Apology",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 245084,
+      "endPos": 245124
+    },
+    {
+      "content": "A Mathematician&#39;s Apology",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 245095,
+      "endPos": 245124
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Cryptonomicon",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 254457,
+      "endPos": 254481
+    },
+    {
+      "content": "Cryptonomicon",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 254468,
+      "endPos": 254481
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"The Music of the Primes",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 263849,
+      "endPos": 263883
+    },
+    {
+      "content": "The Music of the Primes",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 263860,
+      "endPos": 263883
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"A History of π",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 311434,
+      "endPos": 311459
+    },
+    {
+      "content": "A History of π",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 311445,
+      "endPos": 311459
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"The Number Devil: A Mathematical Adventure",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 320752,
+      "endPos": 320805
+    },
+    {
+      "content": "The Number Devil: A Mathematical Adventure",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 320763,
+      "endPos": 320805
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"The Princeton Companion to Mathematics",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 339797,
+      "endPos": 339846
+    },
+    {
+      "content": "The Princeton Companion to Mathematics",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 339808,
+      "endPos": 339846
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Men of Mathematics",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 349337,
+      "endPos": 349366
+    },
+    {
+      "content": "Men of Mathematics",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 349348,
+      "endPos": 349366
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"The Colossal Book of Mathematics",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 358676,
+      "endPos": 358719
+    },
+    {
+      "content": "The Colossal Book of Mathematics",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 358687,
+      "endPos": 358719
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Monster&#39;s Battle Book 1",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 377694,
+      "endPos": 377732
+    },
+    {
+      "content": "Monster&#39;s Battle Book 1",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 377705,
+      "endPos": 377732
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Letters to a Young Mathematician",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 387225,
+      "endPos": 387268
+    },
+    {
+      "content": "Letters to a Young Mathematician",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 387236,
+      "endPos": 387268
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"I Am a Strange Loop",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 425093,
+      "endPos": 425123
+    },
+    {
+      "content": "I Am a Strange Loop",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 425104,
+      "endPos": 425123
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Chaos: Making a New Science",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 434455,
+      "endPos": 434493
+    },
+    {
+      "content": "Chaos: Making a New Science",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 434466,
+      "endPos": 434493
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"The Emperor&#39;s New Mind",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 443865,
+      "endPos": 443902
+    },
+    {
+      "content": "The Emperor&#39;s New Mind",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 443876,
+      "endPos": 443902
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"e: the Story of a Number",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 453235,
+      "endPos": 453270
+    },
+    {
+      "content": "e: the Story of a Number",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 453246,
+      "endPos": 453270
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Proofs from the Book",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 462550,
+      "endPos": 462581
+    },
+    {
+      "content": "Proofs from the Book",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 462561,
+      "endPos": 462581
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Geometry and the Imagination",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 471903,
+      "endPos": 471942
+    },
+    {
+      "content": "Geometry and the Imagination",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 471914,
+      "endPos": 471942
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"An Imaginary Tale: The Story of √-1",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 481294,
+      "endPos": 481340
+    },
+    {
+      "content": "An Imaginary Tale: The Story of √-1",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 481305,
+      "endPos": 481340
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Math Jokes",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 490684,
+      "endPos": 490705
+    },
+    {
+      "content": "Math Jokes",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 490695,
+      "endPos": 490705
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Love and Math: The Heart of Hidden Reality",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 500009,
+      "endPos": 500062
+    },
+    {
+      "content": "Love and Math: The Heart of Hidden Reality",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 500020,
+      "endPos": 500062
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Logicomix: An Epic Search for Truth",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 518915,
+      "endPos": 518961
+    },
+    {
+      "content": "Logicomix: An Epic Search for Truth",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 518926,
+      "endPos": 518961
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Asimov on Numbers",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 604712,
+      "endPos": 604740
+    },
+    {
+      "content": "Asimov on Numbers",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 604723,
+      "endPos": 604740
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"A Tour of the Calculus",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 614013,
+      "endPos": 614046
+    },
+    {
+      "content": "A Tour of the Calculus",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 614024,
+      "endPos": 614046
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"The Parrot&#39;s Theorem",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 642485,
+      "endPos": 642520
+    },
+    {
+      "content": "The Parrot&#39;s Theorem",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 642496,
+      "endPos": 642520
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Gödel&#39;s Proof",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 670991,
+      "endPos": 671019
+    },
+    {
+      "content": "Gödel&#39;s Proof",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 671002,
+      "endPos": 671019
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Mathematics From The Birth Of Numbers",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 680313,
+      "endPos": 680361
+    },
+    {
+      "content": "Mathematics From The Birth Of Numbers",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 680324,
+      "endPos": 680361
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Mathematics: A Very Short Introduction",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 708772,
+      "endPos": 708821
+    },
+    {
+      "content": "Mathematics: A Very Short Introduction",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 708783,
+      "endPos": 708821
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Number: The Language of Science",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 737340,
+      "endPos": 737382
+    },
+    {
+      "content": "Number: The Language of Science",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 737351,
+      "endPos": 737382
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"The Math Olympian",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 756180,
+      "endPos": 756208
+    },
+    {
+      "content": "The Math Olympian",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 756191,
+      "endPos": 756208
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"From Here to Infinity",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 765619,
+      "endPos": 765651
+    },
+    {
+      "content": "From Here to Infinity",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 765630,
+      "endPos": 765651
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Mathematics Form and Function",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 774969,
+      "endPos": 775009
+    },
+    {
+      "content": "Mathematics Form and Function",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 774980,
+      "endPos": 775009
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Concepts of Modern Mathematics",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 803394,
+      "endPos": 803435
+    },
+    {
+      "content": "Concepts of Modern Mathematics",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 803405,
+      "endPos": 803435
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Calculus Wars",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 822284,
+      "endPos": 822308
+    },
+    {
+      "content": "Calculus Wars",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 822295,
+      "endPos": 822308
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Things to Make and Do in the Fourth Dimension",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 831626,
+      "endPos": 831682
+    },
+    {
+      "content": "Things to Make and Do in the Fourth Dimension",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 831637,
+      "endPos": 831682
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Flatterland: Like Flatland, Only More So",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 860235,
+      "endPos": 860286
+    },
+    {
+      "content": "Flatterland: Like Flatland, Only More So",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 860246,
+      "endPos": 860286
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"The Mismeasure of Man",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 888630,
+      "endPos": 888662
+    },
+    {
+      "content": "The Mismeasure of Man",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 888641,
+      "endPos": 888662
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"A Wrinkle in Time",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 974125,
+      "endPos": 974153
+    },
+    {
+      "content": "A Wrinkle in Time",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 974136,
+      "endPos": 974153
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Math and Magic in Wonderland",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1002583,
+      "endPos": 1002622
+    },
+    {
+      "content": "Math and Magic in Wonderland",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1002594,
+      "endPos": 1002622
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Phillip Edwards",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1042616,
+      "endPos": 1042642
+    },
+    {
+      "content": "Phillip Edwards",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1042627,
+      "endPos": 1042642
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Cindy",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1046099,
+      "endPos": 1046115
+    },
+    {
+      "content": "Cindy",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1046110,
+      "endPos": 1046115
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Ami Iida",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1049163,
+      "endPos": 1049182
+    },
+    {
+      "content": "Ami Iida",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1049174,
+      "endPos": 1049182
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Shree Vallabha",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1052917,
+      "endPos": 1052942
+    },
+    {
+      "content": "Shree Vallabha",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1052928,
+      "endPos": 1052942
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Hrishikesh Choudhari",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1055904,
+      "endPos": 1055935
+    },
+    {
+      "content": "Hrishikesh Choudhari",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1055915,
+      "endPos": 1055935
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Ami Iida",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1058945,
+      "endPos": 1058964
+    },
+    {
+      "content": "Ami Iida",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1058956,
+      "endPos": 1058964
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"AdiTya VerMa",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1062555,
+      "endPos": 1062578
+    },
+    {
+      "content": "AdiTya VerMa",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1062566,
+      "endPos": 1062578
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Ming",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1065997,
+      "endPos": 1066012
+    },
+    {
+      "content": "Ming",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1066008,
+      "endPos": 1066012
+    }
+  ],
+  [
+    {
+      "content": " <a title=\"Angel Avitia ",
+      "isParticipating": true,
+      "groupNum": 0,
+      "startPos": 1068904,
+      "endPos": 1068928
+    },
+    {
+      "content": "Angel Avitia ",
+      "isParticipating": true,
+      "groupNum": 1,
+      "startPos": 1068915,
+      "endPos": 1068928
+    }
+  ]
+]
